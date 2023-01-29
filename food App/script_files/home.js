@@ -27,8 +27,6 @@ function Sec_food(){
     })
    }, 1000)
 }
-
-
 window.addEventListener('load',userStatus)
 var btm = document.getElementById("sign_btn")
 btm.addEventListener('click',login_btn)
